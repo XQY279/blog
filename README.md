@@ -151,3 +151,7 @@ https://zhuanlan.zhihu.com/p/24460769
 
 http://www.ruanyifeng.com/blog/2013/10/event_loop.html
 
+https://nodejs.org/en/docs/guides/event-loop-timers-and-nexttick/
+
+https://cnodejs.org/topic/57d68794cb6f605d360105bf
+
