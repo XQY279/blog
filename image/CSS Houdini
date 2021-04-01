@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-01T01:04:30.942Z" agent="5.0 (Macintosh; Intel Mac OS X 11_2_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="BQJm4R7LdvVsblK_T65i" version="14.5.3" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-04-01T14:37:24.344Z" agent="5.0 (Macintosh; Intel Mac OS X 11_2_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="JmKy5QpY-TwoVxHH2I8S" version="14.5.4" type="github" pages="3">
   <diagram id="EtZiyuKKwU_tr7Zd5l9W" name="JavaScript标准制定流程">
     <mxGraphModel dx="1186" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -35,7 +35,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="84xepY0nsmBCh9E03eaY" name="页面渲染流程">
-    <mxGraphModel dx="1186" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1694" dy="1136" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="RdwlbrKxTfIaJGVUaVma-0" />
         <mxCell id="RdwlbrKxTfIaJGVUaVma-1" parent="RdwlbrKxTfIaJGVUaVma-0" />
