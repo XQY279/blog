@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-01T15:10:59.736Z" agent="5.0 (Macintosh; Intel Mac OS X 11_2_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="RG-DRcbCAXH2rg3D5clC" version="14.5.4" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-04-01T15:34:00.438Z" agent="5.0 (Macintosh; Intel Mac OS X 11_2_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="VBaUrst3v3oszMawLb8T" version="14.5.4" type="github" pages="3">
   <diagram id="EtZiyuKKwU_tr7Zd5l9W" name="JavaScript标准制定流程">
     <mxGraphModel dx="1186" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -128,7 +128,7 @@
             <mxPoint x="1200" y="242.83333333333337" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="L88tSovEqZS3_kaskSE2-6" value="&lt;p&gt;&lt;font face=&quot;Comic Sans MS&quot; style=&quot;font-size: 14px&quot;&gt;JavaScript Polyfills can only modify the DOM and CSSOM, and many of those change will re-initiate the entire rendering process.&lt;/font&gt;&lt;/p&gt;" style="text;html=1;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;glass=0;shadow=0;strokeWidth=1;dashed=1;dashPattern=1 1;perimeterSpacing=1;" vertex="1" parent="RdwlbrKxTfIaJGVUaVma-1">
+        <mxCell id="L88tSovEqZS3_kaskSE2-6" value="&lt;p&gt;&lt;font face=&quot;Comic Sans MS&quot; style=&quot;font-size: 14px&quot;&gt;JavaScript Polyfills 只能修改 DOM 和 CSSOM, 并且很多修改会导致整个过程的重新渲染&lt;/font&gt;&lt;/p&gt;" style="text;html=1;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;glass=0;shadow=0;strokeWidth=1;dashed=1;dashPattern=1 1;perimeterSpacing=1;" vertex="1" parent="RdwlbrKxTfIaJGVUaVma-1">
           <mxGeometry x="652" y="210" width="451" height="65" as="geometry" />
         </mxCell>
       </root>
