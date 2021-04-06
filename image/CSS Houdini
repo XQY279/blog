@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-04-04T08:14:24.058Z" agent="5.0 (Macintosh; Intel Mac OS X 11_2_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="ITRcDuhggJYLqhD5D5Xi" version="14.5.4" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-04-06T02:40:41.184Z" agent="5.0 (Macintosh; Intel Mac OS X 11_2_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="KMasg3aP7PP9amVbPjkI" version="14.5.7" type="github" pages="5">
   <diagram id="EtZiyuKKwU_tr7Zd5l9W" name="JavaScript标准制定流程">
-    <mxGraphModel dx="988" dy="663" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1186" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -287,6 +287,14 @@
         <mxCell id="dSiwWfGq-lPT-f2wsSsg-44" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;span style=&quot;font-size: 22px&quot;&gt;&lt;b&gt;Worklets&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;sketch=1;fillStyle=auto;gradientDirection=north;fillColor=#ffcc99;strokeColor=#36393d;" vertex="1" parent="I17Yzxo6Hyad9mt_FvlX-1">
           <mxGeometry x="760" y="450" width="550" height="70" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="igVEwVue-calUO2x7k7m" name="Worklets lifecycle">
+    <mxGraphModel dx="1186" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
+      <root>
+        <mxCell id="GscuU-gO_0YDPsxMsaQh-0" />
+        <mxCell id="GscuU-gO_0YDPsxMsaQh-1" parent="GscuU-gO_0YDPsxMsaQh-0" />
       </root>
     </mxGraphModel>
   </diagram>
